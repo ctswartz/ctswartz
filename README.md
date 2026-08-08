@@ -2,18 +2,20 @@
 
 ## Data Analyst focused on food, technology, and society
 
-I’m a data analyst interested in using data to understand the systems that shape everyday life, especially food systems, accessibility, and consumer behavior.
+I’m a data analyst interested in using data to better understand how people interact with technology, organizations, and the resources around them.
 
-My work combines data analysis with research and social perspectives. I enjoy exploring how people interact with technology, how communities access resources, and how data can help us better understand the world around us.
+My work combines data analysis, research, and an interest in the social factors behind the numbers. I’m especially interested in consumer behavior, accessibility, inequality, and technology. I enjoy finding patterns in data, asking questions about why those patterns exist, and communicating what I find through clear visualizations and straightforward explanations.
 
 ## Areas of Interest
 
-Food systems and accessibility  
-Nutrition and consumer data  
-Plant-based food trends  
-Restaurant and grocery analytics  
-Technology and society  
-Research and data storytelling  
+- People and organizational behavior
+- Food systems and accessibility
+- Consumer and grocery analytics
+- Nutrition and ingredient data
+- Plant-based food trends
+- Technology and society
+- Accessibility and inequality
+- Research and data storytelling
 
 ## Skills and Tools
 
@@ -26,12 +28,15 @@ Research and data storytelling
 
 I am currently building projects focused on:
 
-Food access and inequality analysis  
-Nutrition and ingredient data exploration  
-Plant-based food trends  
-Restaurant and consumer behavior analysis  
-Technology, bias, and accessibility research  
+- Food access and inequality
+- Consumer behavior and grocery purchasing
+- Nutrition and ingredient data
+- Plant-based food trends
+- Accessibility and technology
+- Technology, bias, and social impact
 
 ## Background
+
+My background in Science, Technology & Society shapes how I approach data analysis. I’m interested not only in what the data shows, but also in the people, systems, and social conditions behind those patterns.
 
 My research interests focus on how technology and data influence people’s lives, including questions of accessibility, bias, and the social impact of emerging technologies.
