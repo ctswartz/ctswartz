@@ -10,10 +10,10 @@ My current work includes fleet asset data management, data auditing, documentati
 
 ## Technical Skills
 
-**Data Analysis:** Excel, SQL, Power BI, Power Query, DAX, Python 
-**Data Quality:** data cleaning, validation, auditing, quality assurance  
-**Programming:** Python, SQL, JavaScript  
-**Tools:** Excel, Power BI, Git, GitHub
+**Data Analysis:** Excel, SQL, Power BI, Power Query, DAX, Python<br>
+**Data Quality:** Data cleaning, validation, auditing, quality assurance<br>
+**Programming:** Python, SQL, JavaScript<br>
+**Tools:** Excel, Power BI, Git, GitHub<br>
 **Web:** HTML, CSS, JavaScript, WordPress
 
 ## Featured Projects
